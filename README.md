@@ -6,3 +6,6 @@
     git clone uRL
 ```
 2.로컬에서 commit을 하나 더 쌓은 다음에 REMOTE로 푸시
+
+
+# 존나 힘듬#
